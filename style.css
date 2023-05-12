@@ -1,0 +1,43 @@
+.parent-div{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    align-items: center;
+
+}
+
+.div1{
+background-color: green;
+width: 450px;
+height: 100px;
+}
+
+.div2{
+background-color: white;
+width: 450px;
+height: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.div3{
+background-color: red;
+width: 450px;
+height: 100px;
+}
+img{
+width: 75px;
+height: 75px;
+
+
+}
+
+
+/* .menu{
+    display: flex;
+    gap: 8px;
+    font-weight: bold;
+} */
